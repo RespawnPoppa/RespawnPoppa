@@ -15,9 +15,14 @@ public static void main(String[] args) {
 ## About me 💬
 Soy estudiante universitario (UABCS), y voy aprediendo/descubriendo mas conocimientos ante la programación.
 ### Language
-- Java ☕
-- -C++ ➕
+- JavaScript ☕
+- -Java ☕
 
+## Frameworks:
+- React-Native
+- React
+- Vue.JS
+- Canvas
 
 <!--
 **RespawnPoppa/RespawnPoppa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
