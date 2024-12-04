@@ -19,7 +19,7 @@
 - 💻 Visita mi [Portfolio]() para mas detalles.
 <!--End Intro-->
 
-
+---
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Habilidades</h2> 
