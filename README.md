@@ -11,7 +11,7 @@
 <br /> 
 
          
-<p align="left">Soy Ingeniero en Desarrollo de Software centrado en el campo de Front-End con las tecnologias de React, Astro, P5. </p>
+<p align="left">I am a software developer in training, specialized in frontend development and passionate about creating visual and functional experiences that connect with users. My focus is on combining modern design with efficient code to build dynamic websites and applications.</p>
 
 - ✨ Started work experience.
 - 🌱 I am currently learning many things, I believe that every day is a learning opportunity.
