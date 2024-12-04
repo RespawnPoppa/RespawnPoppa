@@ -31,13 +31,15 @@
 </p>
 <br />
 
-<h2 align="center">📊 GitHub Stats</h2> 
-<p align="center">
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RespawnPoppa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RespawnPoppa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RespawnPoppa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
+
 ---
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 # Contact me! ✉️
