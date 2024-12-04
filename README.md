@@ -34,6 +34,10 @@
 
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Contact me! ✉️
+  
+- Email: elementos94260@gmail.com
+- Discord: poppaidkz (md).
+- 
   <a href="https://skillicons.dev">
-- Email: elementos94260@gmail.com <img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail,discord"/>
  </a>
