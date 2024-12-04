@@ -31,10 +31,9 @@
 </p>
 <br />
 
-- Email: elementos94260@gmail.com <img src="https://skillicons.dev/icons?i=email" />
 
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Contact me! ✉️
-
-
-
+  <a href="https://skillicons.dev">
+- Email: elementos94260@gmail.com <img src="https://skillicons.dev/icons?i=email" />
+ </a>
