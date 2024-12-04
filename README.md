@@ -20,11 +20,17 @@
 <!--End Intro-->
 
 
-<!--Contact Section--> 
 
+<!--Languages and Tools Section-->       
+<h2 align="center">Habilidades</h2> 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
+<br />
+
+<!--Contact Section--> 
+
+
 ---
